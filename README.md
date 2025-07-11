@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<ДОБРО ПАЖАЛОВАТЬ>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
